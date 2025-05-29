@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--xwalk--swbarman.aem.page/
-- Live: https://main--xwalk--swbarman.aem.live/
+- Preview: https://main--xwalk--swetabar.aem.page/
+- Live: https://main--xwalk--swetabar.aem.live/
 
 ## Documentation
 
